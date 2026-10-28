@@ -1,7 +1,7 @@
 
 //Create payslip
 
-import Employee from "../models/Employee";
+import Employee from "../models/Employee.js";
 import Payslip from "../models/Payslip.js";
 
 //post /api/payslips
